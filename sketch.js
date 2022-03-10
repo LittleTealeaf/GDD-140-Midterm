@@ -29,7 +29,7 @@ function draw() {
   }
   //Draw the center ellipse
   fill('grey');
-  ellipse(75,75,size);
+  ellipse(75,75,size); 
   //Draw the text
   noStroke();
   fill('black');
